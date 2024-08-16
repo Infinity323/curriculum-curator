@@ -1,0 +1,17 @@
+.sv-container-modern__title h3 {
+    padding-top: 2em;
+    font-size: 2em;
+}
+
+.sv-container-modern__title h5 {
+    margin-top: 2.5em;
+    font-size: 1.1em;
+}
+
+.sv-root-modern .sv-container-modern__title {
+    color: #8A624A !important;
+}
+
+.sv-root-modern .sv-footer__complete-btn {
+    background-color: #8A624A !important;
+}
